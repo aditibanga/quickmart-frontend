@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Fruits",
+    "description": "Fresh and healthy fruits",
+    "imageUrl": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "name": "Vegetables",
+    "description": "Fresh organic vegetables",
+    "imageUrl": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "name": "Dairy",
+    "description": "Milk and dairy products",
+    "imageUrl": "https://images.unsplash.com/photo-1628088062854-d1870b4553da?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "name": "Snacks",
+    "description": "Delicious snacks and chips",
+    "imageUrl": "https://images.unsplash.com/photo-1621939514649-280e2ee25f60?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "name": "Drinks",
+    "description": "Beverages and soft drinks",
+    "imageUrl": "https://images.unsplash.com/photo-1437418747212-8d9709afab22?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 6,
+    "name": "Bakery",
+    "description": "Fresh bread and baked goods",
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 7,
+    "name": "Meat",
+    "description": "Fresh meat and poultry",
+    "imageUrl": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 8,
+    "name": "Seafood",
+    "description": "Fresh fish and seafood",
+    "imageUrl": "https://images.unsplash.com/photo-1615141982883-c7ad0e69fd62?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 9,
+    "name": "Frozen Foods",
+    "description": "Frozen meals and products",
+    "imageUrl": "https://images.unsplash.com/photo-1520218682634-6c9237f70d1c?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 10,
+    "name": "Sweets",
+    "description": "Candies and confectionery",
+    "imageUrl": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 11,
+    "name": "Grains & Pulses",
+    "description": "Rice and dal varieties",
+    "imageUrl": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 12,
+    "name": "Spices & Masala",
+    "description": "Indian spices and seasonings",
+    "imageUrl": "https://images.unsplash.com/photo-1596040033229-a0b0c2b7c5f1?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 13,
+    "name": "Oil & Ghee",
+    "description": "Cooking oils and ghee",
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 14,
+    "name": "Cereals & Breakfast",
+    "description": "Morning breakfast items",
+    "imageUrl": "https://images.unsplash.com/photo-1526318896980-cf78c088247c?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 15,
+    "name": "Noodles & Pasta",
+    "description": "Instant noodles and pasta",
+    "imageUrl": "https://images.unsplash.com/photo-1551462147-37d9161c5f4b?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 16,
+    "name": "Sauces & Condiments",
+    "description": "Ketchup and sauces",
+    "imageUrl": "https://images.unsplash.com/photo-1472476443507-c7a5948772fc?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 17,
+    "name": "Dry Fruits & Nuts",
+    "description": "Almonds and cashews",
+    "imageUrl": "https://images.unsplash.com/photo-1508747703725-719777637510?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 18,
+    "name": "Tea & Coffee",
+    "description": "Tea leaves and coffee",
+    "imageUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 19,
+    "name": "Pickles & Chutneys",
+    "description": "Indian pickles and chutneys",
+    "imageUrl": "https://images.unsplash.com/photo-1599909533730-f9d2992f6b41?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 20,
+    "name": "Ready to Eat",
+    "description": "Instant ready meals",
+    "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 21,
+    "name": "Personal Care",
+    "description": "Soaps and shampoos",
+    "imageUrl": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 22,
+    "name": "Household",
+    "description": "Cleaning supplies",
+    "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 23,
+    "name": "Baby Care",
+    "description": "Baby products and food",
+    "imageUrl": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 24,
+    "name": "Health & Nutrition",
+    "description": "Vitamins and supplements",
+    "imageUrl": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 25,
+    "name": "Pet Food",
+    "description": "Dog and cat food",
+    "imageUrl": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 26,
+    "name": "Organic Products",
+    "description": "Certified organic items",
+    "imageUrl": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 27,
+    "name": "Canned Foods",
+    "description": "Canned vegetables and fruits",
+    "imageUrl": "https://images.unsplash.com/photo-1594498653385-d5172c532c00?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 28,
+    "name": "Eggs",
+    "description": "Fresh chicken eggs",
+    "imageUrl": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 29,
+    "name": "Juice & Energy Drinks",
+    "description": "Packaged juices and drinks",
+    "imageUrl": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=400&h=400&fit=crop",
+    "isActive": true
+  },
+  {
+    "id": 30,
+    "name": "Stationery",
+    "description": "Pens and notebooks",
+    "imageUrl": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=400&h=400&fit=crop",
+    "isActive": true
+  }
+]
