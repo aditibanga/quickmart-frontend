@@ -42,14 +42,7 @@ export default function CategoryProductsPage({ params }) {
   }, []);
 
   // horizontal scroll pagination
-  const handleScroll = () => {
-    const el = scrollRef.current;
-    if (!el) return;
-
-    if (el.scrollLeft + el.clientWidth >= el.scrollWidth - 100) {
-      fetchProducts();
-    }
-  };
+ 
 
   return (
     <div className="mx-auto max-w-7xl px-6 py-10">
