@@ -20,7 +20,7 @@ export default function ProductSection() {
     try {
       const data = await getProducts(page, 10);
 
-      setProducts((prev) => [...prev, ...data.items]);
+      setProducts((prev) => [...prev, ...data.content]);
       setPage((prev) => prev + 1);
 
       if (page + 1 >= data.totalPages) {
