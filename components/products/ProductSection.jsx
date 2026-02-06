@@ -65,7 +65,9 @@ export default function ProductSection() {
             id={product.id}
             name={product.name}
             price={product.price}
+            imageUrl={product.imageUrl}
           />
+
         ))}
 
         {loading && (
