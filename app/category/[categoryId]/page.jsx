@@ -64,11 +64,13 @@ export default function CategoryProductsPage({ params }) {
       >
         {products.map((product) => (
           <ProductCard
-            key={product.id}
-            id={product.id}
-            name={product.name}
-            price={product.price}
-          />
+  key={product.id}
+  id={product.id}
+  name={product.name}
+  price={product.price}
+  imageUrl={product.imageUrl}
+/>
+
         ))}
 
         {loading && (
